@@ -2,21 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://edkrutova.github.io/category/demo/</link>
+      <atom:link href="https://edkrutova.github.io/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://edkrutova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <link>https://edkrutova.github.io/category/demo/</link>
     </image>
     
     <item>
+      <title>Last week</title>
+      <link>https://edkrutova.github.io/post/last_week/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://edkrutova.github.io/post/last_week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Actually, nothing interesting happened. I was busy with doing labs and it will be so for a long time. The only positive point was that I managed not to miss deadlines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post about Version control. Git</title>
+      <link>https://edkrutova.github.io/post/control_versions/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://edkrutova.github.io/post/control_versions/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Version control systems (Version Control System, VCS) are used when several several people work on one project. Usually the main project tree is stored in the local or a remote repository to which access is configured for project members. If somebody makes changes to the content of the project, the version control system allows them to fix, combine changes made by different project participants, rollback to any earlier version of the project, if required.&lt;/p&gt;
+&lt;p&gt;Classical version control systems use a centralized model, assuming a single repository for storing files. Most of the version control functions are performed by a dedicated server.The project participant (user) before starting work through certain command gets the version of files it needs. After making changes, the user commits the new version to the repository. This does not remove previous versions from the central repository and you can return to them at any time. The server can save not the full version of the modified files, but produce the so-called delta compression - save only changes between successive versions, which allows you to reduce the amount of stored data.&lt;/p&gt;
+&lt;p&gt;Version control systems support traceability and resolution conflicts that may arise when several people work on one file. You can merge (merge) changes made by different participants (automathically or manually), manually select the desired version, cancel the changes altogether or lock files for modification. Depending on the settings, blocking is not allows other users to get a working copy or prevents modification working copy of the file by means of the OS file system, thus providing privileged access to only one user working with the file.&lt;/p&gt;
+&lt;p&gt;Version control systems can also provide additional, more flexible functionality. For example, they can support work with several versions of the same file, keeping a common history of changes up to the branch point versions and each branch&amp;rsquo;s own change histories. In addition, it is usually available information about which of the participants, when and what changes were made. Usually this kind of information is stored in the change log, access to which can be restricted.&lt;/p&gt;
+&lt;p&gt;Unlike classical ones, in distributed version control systems, the central the repository is optional.&lt;/p&gt;
+&lt;p&gt;Among the classic VCS, CVS, Subversion are the most famous, and among the distributed nyh - Git, Bazaar, Mercurial. The principles of their work are similar, they differ mainly the syntax of the commands used in the work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://edkrutova.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://edkrutova.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
