@@ -5,12 +5,34 @@
     <link>https://edkrutova.github.io/tag/academic/</link>
       <atom:link href="https://edkrutova.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://edkrutova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://edkrutova.github.io/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://edkrutova.github.io/post/last_week2/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://edkrutova.github.io/post/last_week2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Still nothing new, trying to survive. Besides deadlines I was busy with preparing everything for my BD)
+One year older and one year closer to death – that’s my toast!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://edkrutova.github.io/post/latex/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://edkrutova.github.io/post/latex/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;LaTeX (often stylized as LATEX) is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in &amp;ldquo;What You See Is What You Get&amp;rdquo; word processors like Microsoft Word, LibreOffice Writer and Apple Pages. The writer uses markup tagging conventions to define the general structure of a document to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A TeX distribution such as TeX Live or MiKTeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.&lt;/p&gt;
+&lt;p&gt;LaTeX is widely used in academia for the communication and publication of scientific documents in many fields, including mathematics, computer science, engineering, physics, chemistry, economics, linguistics, quantitative psychology, philosophy, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Greek. LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Last week</title>
