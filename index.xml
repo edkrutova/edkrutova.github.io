@@ -66,6 +66,16 @@ Also had a birthday last week.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Last week again 2</title>
+      <link>https://edkrutova.github.io/post/last_week4/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://edkrutova.github.io/post/last_week4/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The further we go, the harder it gets. I’m tired &amp;amp; need more holidays.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Report</title>
       <link>https://edkrutova.github.io/post/report/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
@@ -95,6 +105,22 @@ Contents of the main elements of the report&lt;/li&gt;
 – Introduction. In the introduction of a typical laboratory work, the goals of the ongoing research and tasks, the implementation of which will help achieve the goals, are usually prescribed. At the same time, there are works in which students become real pioneers. Have you ever experienced a feeling of extreme curiosity and impatience while doing a lab?
 Feel that in just a couple of minutes you will find the answer to a question that no one has ever found an answer to? It is for such studies that a detailed introduction is written with proof of the relevance and novelty of the topic under study. In order to really conduct research in an area in which, as they say, no human foot has yet set foot, in the introduction you will need to assess the current state of the problem under consideration and justify the need to solve it.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming language</title>
+      <link>https://edkrutova.github.io/post/sci_l/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://edkrutova.github.io/post/sci_l/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In a wide sense, a scientific programming language is a programming language that is used widely for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.
+In a wide sense, a scientific programming language is a programming language that is used widely for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;linear-algebra&#34;&gt;Linear algebra&lt;/h3&gt;
+&lt;p&gt;Scientific programming languages provide facilities to work with linear algebra. For example, the following Julia program solves a system of linear equations.&lt;/p&gt;
+&lt;h3 id=&#34;mathematical-optimization&#34;&gt;Mathematical optimization&lt;/h3&gt;
+&lt;p&gt;In a scientific programming language, we can compute function optima with a syntax close to mathematical language.&lt;/p&gt;
 </description>
     </item>
     
@@ -337,6 +363,17 @@ $$&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://edkrutova.github.io/project/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://edkrutova.github.io/project/project/</guid>
+      <description>&lt;p&gt;Actually, the only project I’m doing now is this page as one of the university course’s task. The project is divided into six stages and it was a task of the fifth one to create this file.
+Not many words, I know.
+By the way, do not forget to check my new weekly posts and wait for this site to become both eng and rus next week.&lt;/p&gt;
 </description>
     </item>
     
